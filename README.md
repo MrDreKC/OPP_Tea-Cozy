@@ -1,3 +1,5 @@
+**Cozy Tea**
+
 Hey everyone, i'm back again with another project from CodeCademy, this time around in what they refer to as an Off-Platform Project.
 
 For this project I was tasked with designg a webpage from the ground up, which I will admit was tough.
